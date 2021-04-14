@@ -1,0 +1,2 @@
+# Tuit
+tuit uchun kerakli
